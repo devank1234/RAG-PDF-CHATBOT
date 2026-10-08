@@ -70,3 +70,11 @@ The application uses **Hugging Face Sentence Transformers** for generating embed
                       ▼
                   Answer
 
+```
+---
+
+
+
+
+
+
