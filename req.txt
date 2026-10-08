@@ -1,0 +1,14 @@
+streamlit
+pandas
+PyPDF2
+langchain
+langchain-core
+langchain-community
+langchain-text-splitters
+langchain-huggingface
+langchain-ollama
+sentence-transformers
+faiss-cpu
+transformers
+torch
+numpy
